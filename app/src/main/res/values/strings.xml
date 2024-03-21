@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Springbreakchooser</string>
+    <string name="buttonText" translatable="false">Discover</string>
+    <string name="title" translatable="false">Your Next Adventure Awaits</string>
+    <string name="description" translatable="false">Select a language, then say something. Shake your device to reveal where your next travel could be!</string>
+    <string name="speak_now">Say a phrase.</string>
+</resources>
